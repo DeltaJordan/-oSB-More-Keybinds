@@ -1,0 +1,19 @@
+{
+    "osb_more_keybinds": {
+      "name": "OpenStarbound More Keybinds",
+      "bannerName": "OpenStarbound More Keybinds",
+      "binds": {
+        "takeAll": {
+          "default": [
+            {
+              "type": "key",
+              "value": ";",
+              "mods": []
+            }
+          ],
+          "name": "Chest 'Take All' Hotkey"
+        }
+      }
+    }
+  }
+  

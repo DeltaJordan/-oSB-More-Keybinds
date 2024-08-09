@@ -1,0 +1,12 @@
+{
+  "author" : "DeltaJordan",
+  "description" : "Adds some random useful keybinds using OpenStarbound.",
+  "friendlyName" : "OpenStarbound More Keybinds",
+  "includes" : [ "Enhanced Storage" ],
+  "name" : "osb_more_keybinds",
+  "version" : "0.0.1",
+  "scripts": {
+    "postLoad": ["/scripts/morekeybinds/postload.lua"]
+  },
+  "priority": 99999
+}
